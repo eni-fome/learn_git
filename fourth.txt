@@ -1,0 +1,3 @@
+git config --global --list
+
+command to see a list of all the git configurations on your machine
